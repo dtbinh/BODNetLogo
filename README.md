@@ -1,6 +1,6 @@
 BODNetLogo Integrates the BOD agent design methodology and the NetLogo simulation platform.
 
-The web pages for this project can be found at mhbrooks.com/bodnetlogo/
+The web pages for this project can be found at www.mhbrooks.com/bodnetlogo/
 
 Or alternatively (COMING SOON) at the pages of Joanna Bryson www.cs.bath.ac.uk/~jjb/
 
