@@ -134,7 +134,7 @@ Section 7
 	
 Section 8 
 	Creating a .bnconfig file.
-	.bnconfig or BodNetlogoCONFIG are very simple files that record the setup for a BODNetLogo simulation. They is currently no way to automate the generation of these files but they are very simple to create. Please the the included wolfSheep.bnconfig file for the structure of the file. There are plenty of comments (lines beginning with #) to describe what each section means.
+	.bnconfig or BodNetlogoCONFIG are very simple files that record the setup for a BODNetLogo simulation. They is currently no way to automate the generation of these files but they are very simple to create. Please see the included wolfSheep.bnconfig file for the structure of the file. There are plenty of comments (lines beginning with #) to describe what each section means.
 	
 
 FAQ

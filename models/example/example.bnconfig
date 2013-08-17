@@ -1,0 +1,67 @@
+#Lines beginning with # are treated as comments
+#This is a configuration file that is read by BODNetLogo
+#Once it is read it populates the settings on the simulation configuration
+#Window, see the comments for information on the meaning of each element
+#
+#
+#To use it on your own version of BODNetLogo please replace the three file locations
+#with the correct values for the nlogo file and the breed lap files
+#
+#
+#BooleanValues
+#RunSetup
+true
+#TICKSON
+true
+#DEBUGMODE
+false
+#AUTODEATH
+true
+#
+#
+#
+#NetLogo File Location
+#this field is optional - specify if you want to have your file in a custom location
+#or leave it blank (or commented) if your file is in the default location
+#see the readme in the models folder for information on the 'defaults'
+#C:\TEST\wolfSheep.nlogo
+#
+#
+#
+#Start of agent declaration
+#'<' character starts an agent and a '>' closes it
+<
+#plural name
+sheep
+#singular name
+a-sheep
+#lap file location
+#this field is optional - specify if you want to have your file in a custom location
+#or leave it blank (or commented) if your file is in the default location
+#see the readme in the models folder for information on the 'defaults'
+#C:\BODNetLogo\BODNetLogo\models\example\Agents\sheep.lap
+# '[' indicates the start of the attributes array and a ']' the end, note: only 1 attribute per line
+[
+standingOnGrass
+energy
+]
+>
+#
+#
+#
+<
+#plural name
+wolves
+#singular name
+wolf
+#lap file location
+#this field is optional - specify if you want to have your file in a custom location
+#or leave it blank (or commented) if your file is in the default location
+#see the readme in the models folder for information on the 'defaults'
+#C:\BODNetLogo\BODNetLogo\models\example\Agents\wolf.lap
+# '[' indicates the start of the attributes array and a ']' the end, note: only 1 attribute per line
+[
+nearSheep
+energy
+]
+>
