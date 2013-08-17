@@ -2,6 +2,8 @@ BODNetLogo Integrates the BOD agent design methodology and the NetLogo simulatio
 
 The web pages for this project can be found at www.mhbrooks.com/bodnetlogo/
 
+And you can contact me at bodnetlogo@mhbrooks.com
+
 Or alternatively (COMING SOON) at the pages of Joanna Bryson www.cs.bath.ac.uk/~jjb/
 
 The program is currently functional in that it is perfectly possible to use it for real work and that all necesasary features work correctly and as needed.
