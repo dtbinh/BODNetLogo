@@ -24,9 +24,7 @@ please refer to the README file inside the 'example model'
 ###############################################################################################################################
 To RUN BODNetLogo, there are two methods:
 	~ Navigate to this folder with 'cmd' or terminal and enter java -jar BODNetLogo.jar
-		This will run the gui for BODNetLogo and the text ouput will appear in the command window.
-	~BODNetLogo can be run be simply double clicking the BODNetLogo.jar file. NOTE: this will run the
-		GUI window but it will NOT currently allow you to see any info/error/debug messages
+	~ BODNetLogo can be run be simply double clicking the BODNetLogo.jar file. 
 
 		
 ###############################################################################################################################
