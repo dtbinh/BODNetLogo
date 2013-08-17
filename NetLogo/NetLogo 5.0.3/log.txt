@@ -1,0 +1,80 @@
+Run #2, RUNTIME ERROR: COUNT expected input to be an agentset but got the number 0 instead.
+error while observer running COUNT
+  called by procedure __EVALUATOR
+org.nlogo.nvm.ArgumentTypeException: COUNT expected input to be an agentset but got the number 0 instead.
+	at org.nlogo.nvm.EngineException.fillInStackTrace(EngineException.java:81)
+	at java.lang.Throwable.<init>(Throwable.java:218)
+	at java.lang.Exception.<init>(Exception.java:59)
+	at org.nlogo.api.LogoException.<init>(LogoException.scala:15)
+	at org.nlogo.nvm.EngineException.<init>(EngineException.java:20)
+	at org.nlogo.nvm.ArgumentTypeException.<init>(ArgumentTypeException.java:22)
+	at org.nlogo.prim._asm_procedureevaluator_report_0.perform(:2)
+	at org.nlogo.nvm.Context.stepConcurrent(Context.java:91)
+	at org.nlogo.nvm.ConcurrentJob.step(ConcurrentJob.java:82)
+	at org.nlogo.job.JobThread.org$nlogo$job$JobThread$$runPrimaryJobs(JobThread.scala:143)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply$mcV$sp(JobThread.scala:78)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply(JobThread.scala:76)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply(JobThread.scala:76)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:88)
+	at org.nlogo.util.Exceptions$.handling(Exceptions.scala:41)
+	at org.nlogo.job.JobThread.run(JobThread.scala:75)
+Run #2, RUNTIME ERROR: COUNT expected input to be an agentset but got the number 0 instead.
+error while observer running COUNT
+  called by procedure __EVALUATOR
+org.nlogo.nvm.ArgumentTypeException: COUNT expected input to be an agentset but got the number 0 instead.
+	at org.nlogo.nvm.EngineException.fillInStackTrace(EngineException.java:81)
+	at java.lang.Throwable.<init>(Throwable.java:218)
+	at java.lang.Exception.<init>(Exception.java:59)
+	at org.nlogo.api.LogoException.<init>(LogoException.scala:15)
+	at org.nlogo.nvm.EngineException.<init>(EngineException.java:20)
+	at org.nlogo.nvm.ArgumentTypeException.<init>(ArgumentTypeException.java:22)
+	at org.nlogo.prim._asm_procedureevaluator_report_0.perform(:2)
+	at org.nlogo.nvm.Context.stepConcurrent(Context.java:91)
+	at org.nlogo.nvm.ConcurrentJob.step(ConcurrentJob.java:82)
+	at org.nlogo.job.JobThread.org$nlogo$job$JobThread$$runPrimaryJobs(JobThread.scala:143)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply$mcV$sp(JobThread.scala:78)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply(JobThread.scala:76)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply(JobThread.scala:76)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:88)
+	at org.nlogo.util.Exceptions$.handling(Exceptions.scala:41)
+	at org.nlogo.job.JobThread.run(JobThread.scala:75)
+Run #3, RUNTIME ERROR: COUNT expected input to be an agentset but got the number 0 instead.
+error while observer running COUNT
+  called by procedure __EVALUATOR
+org.nlogo.nvm.ArgumentTypeException: COUNT expected input to be an agentset but got the number 0 instead.
+	at org.nlogo.nvm.EngineException.fillInStackTrace(EngineException.java:81)
+	at java.lang.Throwable.<init>(Throwable.java:218)
+	at java.lang.Exception.<init>(Exception.java:59)
+	at org.nlogo.api.LogoException.<init>(LogoException.scala:15)
+	at org.nlogo.nvm.EngineException.<init>(EngineException.java:20)
+	at org.nlogo.nvm.ArgumentTypeException.<init>(ArgumentTypeException.java:22)
+	at org.nlogo.prim._asm_procedureevaluator_report_0.perform(:2)
+	at org.nlogo.nvm.Context.stepConcurrent(Context.java:91)
+	at org.nlogo.nvm.ConcurrentJob.step(ConcurrentJob.java:82)
+	at org.nlogo.job.JobThread.org$nlogo$job$JobThread$$runPrimaryJobs(JobThread.scala:143)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply$mcV$sp(JobThread.scala:78)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply(JobThread.scala:76)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply(JobThread.scala:76)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:88)
+	at org.nlogo.util.Exceptions$.handling(Exceptions.scala:41)
+	at org.nlogo.job.JobThread.run(JobThread.scala:75)
+Run #3, RUNTIME ERROR: COUNT expected input to be an agentset but got the number 0 instead.
+error while observer running COUNT
+  called by procedure __EVALUATOR
+org.nlogo.nvm.ArgumentTypeException: COUNT expected input to be an agentset but got the number 0 instead.
+	at org.nlogo.nvm.EngineException.fillInStackTrace(EngineException.java:81)
+	at java.lang.Throwable.<init>(Throwable.java:218)
+	at java.lang.Exception.<init>(Exception.java:59)
+	at org.nlogo.api.LogoException.<init>(LogoException.scala:15)
+	at org.nlogo.nvm.EngineException.<init>(EngineException.java:20)
+	at org.nlogo.nvm.ArgumentTypeException.<init>(ArgumentTypeException.java:22)
+	at org.nlogo.prim._asm_procedureevaluator_report_0.perform(:2)
+	at org.nlogo.nvm.Context.stepConcurrent(Context.java:91)
+	at org.nlogo.nvm.ConcurrentJob.step(ConcurrentJob.java:82)
+	at org.nlogo.job.JobThread.org$nlogo$job$JobThread$$runPrimaryJobs(JobThread.scala:143)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply$mcV$sp(JobThread.scala:78)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply(JobThread.scala:76)
+	at org.nlogo.job.JobThread$$anonfun$run$1.apply(JobThread.scala:76)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:88)
+	at org.nlogo.util.Exceptions$.handling(Exceptions.scala:41)
+	at org.nlogo.job.JobThread.run(JobThread.scala:75)

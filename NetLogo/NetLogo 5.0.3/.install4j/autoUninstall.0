@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<autoUninstall>
+<action className="com.install4j.runtime.beans.actions.desktop.CreateFileAssociationAction">
+<property name="executable" value="H:\NetLogo\NetLogo 5.0.3\NetLogo 3D 5.0.3.exe"/>
+<property name="extension" value=".nlogo3d"/>
+</action>
+<action className="com.install4j.runtime.beans.actions.desktop.CreateFileAssociationAction">
+<property name="executable" value="H:\NetLogo\NetLogo 5.0.3\NetLogo 5.0.3.exe"/>
+<property name="extension" value=".nlogo"/>
+</action>
+<action className="com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction"/>
+</autoUninstall>

@@ -1,0 +1,7 @@
+#install4j response file for NetLogo 5.0.3
+#Wed Jan 30 06:42:31 GMT 2013
+sys.programGroupAllUsers$Boolean=false
+sys.programGroupDisabled$Boolean=false
+sys.languageId=en
+sys.programGroupName=NetLogo
+sys.installationDir=H\:\\NetLogo\\NetLogo 5.0.3

@@ -1,0 +1,27 @@
+
+(
+(AP ap-breed (minutes 1.0) (
+	a_breed
+))
+(C c-hunt (minutes 10.0) (goal ((false)))
+	(elements
+		((on-grass (trigger ((nearSheep 1.0 ==))) a_eatSheep))
+		((default (trigger ((true))) a_lookSheep))
+	)
+)
+
+(DC life (goal ((energy 0.0 <=)))
+	(drives
+		(
+
+		(hungry (trigger ((energy 20.0 <=))) c-hunt))
+		(
+
+		(breed (trigger ((energy 15.0 >=))) ap-breed(ticks 10)))
+		(
+
+		(default-behaviour (trigger ((true))) a_wander))
+
+	)
+)
+)

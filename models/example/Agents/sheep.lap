@@ -1,0 +1,27 @@
+
+(
+(AP ap-breed (minutes 1.0) (
+	a_breed
+))
+(C c-graze (minutes 10.0) (goal ((false)))
+	(elements
+		((on-grass (trigger ((standingOnGrass 1.0 ==))) a_eatGrass))
+		((default (trigger ((true))) a_lookForGrass))
+	)
+)
+
+(DC life (goal ((energy 0.0 <=)))
+	(drives
+		(
+
+		(hungry (trigger ((energy 5.0 <=))) c-graze))
+		(
+
+		(breed (trigger ((energy 8.0 >=))) ap-breed(ticks 10)))
+		(
+
+		(default-behaviour (trigger ((true))) a_wander))
+
+	)
+)
+)
