@@ -1,6 +1,6 @@
 BODNetLogo Integrates the BOD agent design methodology and the NetLogo simulation platform.
 
-If you're new to BODNetLogo you might want to start at the github wiki pages.
+If you're new to BODNetLogo you might want to start at the github wiki pages https://github.com/micsy91/BODNetLogo/wiki .
 
 The web pages for this project can be found at www.mhbrooks.com/bodnetlogo/
 
