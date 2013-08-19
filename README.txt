@@ -87,7 +87,7 @@ Section 5
 		1. it will load the simulation controller window (run/pause)
 		2. it will load NetLogo
 		3. once NetLogo is fully loaded it will run the 'setup' command - you should see the visual view populate all your agents and patches
-		4. it will load all your agents in BODNetLogo, including their plans. NOTE if you have a lot of agents, or agents with very complicated lap plans you should use the command line so that you can see when the plans have finished loading, once finished the command line will read Create All Agents and Ready to Run plans.
+		4. it will load all your agents in BODNetLogo, including their plans. NOTE if you have a lot of agents, or agents with very complicated lap plans you should wait until finished loading, once finished the text output will read Created All Agents and Ready to Run plans.
 		If you only have a few agents this should only take a second or two
 	Once everything is loaded:
 		click run model in the simulation controller and the model should start
