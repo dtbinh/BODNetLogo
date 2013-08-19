@@ -10,7 +10,7 @@ Or alternatively (COMING SOON) at the pages of Joanna Bryson www.cs.bath.ac.uk/~
 
 If you're new to BODNetLogo you might want to start at the github wiki pages https://github.com/micsy91/BODNetLogo/wiki .
 
-The program is currently functional in that it is perfectly possible to use it for real work and that all necesasary features work correctly and as needed.
+The program is currently functional in that it is perfectly possible to use it for real work and that all necessary features work correctly and as needed.
 
 However to put it in the kindest terms a large amount of the program was 'hacked' together (you could also call it rushed) due to the pressures of dissertation writing.
 So there is plenty of work still to be done, specifically tidying up/refactoring the code, making it a little easier to use,  as well as the usual grand list of
