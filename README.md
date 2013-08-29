@@ -6,7 +6,7 @@ The web pages for this project can be found at www.mhbrooks.com/bodnetlogo/
 
 And you can contact me at bodnetlogo@mhbrooks.com
 
-Or alternatively (COMING SOON) at the pages of Joanna Bryson www.cs.bath.ac.uk/~jjb/
+Or alternatively (COMING SOON) at the pages of Joanna Bryson http://www.cs.bath.ac.uk/~jjb/web/bod.html
 
 If you're new to BODNetLogo you might want to start at the github wiki pages https://github.com/micsy91/BODNetLogo/wiki .
 
