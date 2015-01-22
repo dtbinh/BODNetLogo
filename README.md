@@ -2,17 +2,17 @@ BODNetLogo Integrates the BOD agent design methodology and the NetLogo simulatio
 
 If you're new to BODNetLogo you might want to start at the github wiki pages https://github.com/micsy91/BODNetLogo/wiki .
 
-The web pages for this project can be found at www.mhbrooks.com/bodnetlogo/
+The web pages for this project can be found at http://mhbrooks.com/project/bodnetlogo
 
-And you can contact me at bodnetlogo@mhbrooks.com
+And you can contact me at contact@mhbrooks.com
 
-Or alternatively (COMING SOON) at the pages of Joanna Bryson http://www.cs.bath.ac.uk/~jjb/web/bod.html
+Or alternatively at the pages of Joanna Bryson http://www.cs.bath.ac.uk/~jjb/web/bod.html
 
 If you're new to BODNetLogo you might want to start at the github wiki pages https://github.com/micsy91/BODNetLogo/wiki .
 
 The program is currently functional in that it is perfectly possible to use it for real work and that all necessary features work correctly and as needed.
 
-However to put it in the kindest terms a large amount of the program was 'hacked' together (you could also call it rushed) due to the pressures of dissertation writing.
+However to put it in the kindest terms a large amount of the program was hacked together (you could also call it rushed) due to the pressures of dissertation writing.
 So there is plenty of work still to be done, specifically tidying up/refactoring the code, making it a little easier to use,  as well as the usual grand list of
 possible new features.
 
